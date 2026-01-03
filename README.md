@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://on1-wp.s3.amazonaws.com/wp-content/uploads/2022/10/26214311/ON1_Effects_2023_icon256.png" width="200" alt="ON1 Effects application logo"><br>
- <a href="https://app-quick-app.github.io/.github/ON1Effects">
+ <a href="https://gnomik-gomik-apps.github.io/.github/ON1Effects">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access ON1 Effects macOS">
  </a><br><br>
  <div align="center">
